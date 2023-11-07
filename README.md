@@ -1,7 +1,7 @@
 Hi I'm <b>Davide</b> 👋
 
 
-Welcome to my profile! I'm a student, a part-time coder and a full-time adventure seeker. I am attending coding school 42Roma Luiss.
+I'm a student, a part-time coder and a full-time adventure seeker. I am attending coding school 42Roma Luiss.
 Thanks for visiting my profile!
 
 - 🔭 I’m currently working on C and C++ projects
