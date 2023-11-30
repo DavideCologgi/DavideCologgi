@@ -1,6 +1,4 @@
-## Hi I'm <b>Davide</b> 👋
-
-## About me 🙋🏼‍♂️
+## Hi I'm <b>Davide</b> 🙋🏼‍♂️
 
 I'm a student, a part-time coder and a full-time adventure seeker. I am attending coding school 42Roma Luiss.
 
