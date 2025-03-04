@@ -1,6 +1,6 @@
 ## Hi I'm <b>Davide</b> 🙋🏼‍♂️
 
-I'm a student, a part-time coder and a full-time adventure seeker. I am attending coding school 42Roma Luiss.
+I'm a part-time coder and a full-time adventure seeker. Currently I'm working as a consultant for Akkodis Italia S.r.l.
 
 ## Languages 👾
 
